@@ -4,12 +4,12 @@
 💻 Full-Stack Developer in Progress <br> 
 🎨 Digital & Traditional Artist <br>
 
-#### 💫 Currently Exploring
+#### Currently Exploring
 - Building full-stack web/mobile applications with **JavaScript**, **TypeScript**, **Flutter**, **Node.js**, and **MySQL**  
 - Designing interfaces that feel alive — with motion, balance, and intent  
 - Creating digital artworks that celebrate the harmony between logic and imagination  
 
-#### 🛠️ Tech Palette
+#### Tech Palette
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
