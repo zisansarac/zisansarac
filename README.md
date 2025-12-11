@@ -36,6 +36,6 @@ because every stroke, like every line of code, is a form of expression.
 ![Zişan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zisansarac&show_icons=true&theme=radical)
 -->
 📫 **Let’s Connect**  
-[LinkedIn](https://www.linkedin.com/in/zisansarac) • [Email](saraczisan02@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/zisansarac) • Email: saraczisan02@gmail.com
 
 > “Code is the art of logic — Art is the logic of emotion.” 🌙
